@@ -185,4 +185,4 @@ solution - [7-app.py](./7-app.py)
     ![Hello World! with a logged in message and the current time in French](./images/img8.png)
   + Displaying the time in English looks like this:<br/>
     ![Hello World! with a logged in message and the current time in English](./images/img8a.png)
-    
+    my files:
